@@ -12,4 +12,3 @@ In this project, I designed the dashboard in Tableau to highlight the possibilit
 
 
 <img width="977" alt="Screenshot 2023-12-13 at 11 34 08 PM" src="https://github.com/shahadghawa/FakerDATA_Riyadh_Expo_2030/assets/94755943/4eef74cf-b3e7-4eac-8425-35b063f9acc3">
->
