@@ -1,4 +1,4 @@
-# FakerDATA_Riyadh_Expo_2030
+# Riyadh_Expo_2030
 
 ## Have you ever wondered about the strategic dashboard that will illuminate the horizons of Riyadh Expo 2030?
 
